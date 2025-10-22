@@ -1,4 +1,5 @@
 # 💸 Income Tracker Frontend
+## On-Going Project
 
 This frontend React.js application provides a clean and intuitive interface for the Income Tracker app. It allows users to manage income and expenses with category and emoji selection, upload profile pictures, and get real-time feedback through toast notifications. The UI includes responsive menus, data visualization with React Charts, filter options, and downloading/emailing transactions. Loading spinners enhance usability during API calls.
 
